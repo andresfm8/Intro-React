@@ -1,10 +1,10 @@
-import AnimalPreview from './components/animal-preview';
 import './App.css';
+import HomePage from './pages/homepage/home.component';
 
 function App() {
   return (
     <div className="App">
-      <AnimalPreview />
+      <HomePage />
     </div>
   );
 }
