@@ -1,0 +1,13 @@
+.header-container{
+  margin-top: 2em;
+}
+
+.navbar-links {
+  color: #111;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.navbar-links:hover {
+  text-decoration: underline;
+}

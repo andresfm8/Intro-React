@@ -3,6 +3,7 @@ button {
   background: transparent;
   cursor: pointer;
   font-size: 20px;
+  margin: 1px 5px;
 }
 
 .blue-button {

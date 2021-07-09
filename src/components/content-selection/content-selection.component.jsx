@@ -24,8 +24,6 @@ const ContentSelection = () => {
 
   return (
     <div className="container">
-      <h1>Random Dogs or Cats</h1>
-
       <div className="button-container">
          <CustomButton className="blue-button" onClick={() => handleClick('dog')}> Random Dog </CustomButton>
          <CustomButton className="blue-button" onClick={() => handleClick('cat')}> Random Cat </CustomButton>
