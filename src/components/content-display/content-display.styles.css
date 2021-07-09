@@ -1,0 +1,8 @@
+.content-img {
+  display: block;
+  max-width: 40vw;
+  max-height: 40vh;
+  width: auto;
+  height: auto;
+  margin: 1.5rem auto;
+}

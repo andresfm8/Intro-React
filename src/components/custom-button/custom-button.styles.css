@@ -1,0 +1,35 @@
+button {
+  padding: 10px 20px;
+  background: transparent;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.blue-button {
+  color: #2196F3;
+  border-radius: 10px;
+  border: 2px solid #2196F3;
+  transition: 0.25s ease;
+}
+
+
+.blue-button:hover {
+  background: #2196F3;
+  border-color: #2196F3;
+  color: #FFF;
+}
+
+.black-button {
+  border: 2px solid #000;
+  transition: all 0.3s ease;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all .3s;
+}
+
+
+.black-button:hover {
+  background: #000;
+  color: #fff;
+}
